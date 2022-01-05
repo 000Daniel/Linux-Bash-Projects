@@ -9,7 +9,7 @@ Feel free to look around and try some of those programs/scripts for yourself.
 <br />
 <br />
 ### Note:  
-   🞄 Support GNU/Linux versions will be noted in the projects themselves.
+   🞄 Support GNU/Linux versions will be noted in the projects themselves.  
 <br />
    🞄 My projects usually are coding exercises, issues are to be expected.  
 <br />
