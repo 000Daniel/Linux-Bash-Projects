@@ -8,7 +8,7 @@
 <br />
 <br />
 ### Auto-Installer
-   download the `auto-Install-ProtonVPN.sh` file.<br />
+   download the [`auto-Install-ProtonVPN.sh`](https://github.com/000Daniel/How-to-install-ProtonVPN-on-Arch-Linux/releases/tag/Proton-VPN) file.<br />
    enter the next commands into the terminal: <br />
    `sudo chmod +x auto-Install-ProtonVPN.sh`<br />
    `sudo pacman -Syu`<br />
@@ -16,7 +16,7 @@
    🞄 the script will ask you multiple times to confirm the installations.<br />
 <br />
 ### Manual-Install
-   download the `manual-Install-ProtonVPN.txt` file.<br />
+   download the [`manual-Install-ProtonVPN.txt`](https://github.com/000Daniel/How-to-install-ProtonVPN-on-Arch-Linux/releases/tag/Proton-VPN) file. <br />
    enter the next command into the terminal: `sudo pacman -Syu`<br />
    and then paste all the commands the file contains into the terminal.<br />
 <br />
